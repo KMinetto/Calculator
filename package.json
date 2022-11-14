@@ -1,0 +1,17 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A calculator Made with Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "Calculator"
+  ],
+  "author": "Kilian MINETTO",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.2.3"
+  }
+}
