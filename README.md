@@ -2,18 +2,23 @@
 
 Un petit projet de calculatrice réalisé sous ElectronJs.
 
-## Réalisation
+### pré-requis :
+
+* NodeJs
+* Git
+
+### Réalisation :
 
 * ElectronJs
 * Html
 * Css
 * Javascript
 
-## installation
+### installation :
 
 ```bash
 # clone project
-git clone https://github.com/KMinetto/Calculator
+git clone https://github.com/KMinetto/Calculator.git
 ```
 
 ```bash
